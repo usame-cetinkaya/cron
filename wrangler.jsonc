@@ -9,6 +9,11 @@
 	"compatibility_date": "2025-08-26",
 	"observability": {
 		"enabled": true
+	},
+	"triggers": {
+		"crons": [
+			"* * * * *"
+		]
 	}
 	/**
 	 * Smart Placement
